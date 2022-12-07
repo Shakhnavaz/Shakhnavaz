@@ -2,11 +2,9 @@
   <a href="https://t.me/shakhnavaz">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  
   <a href="https://vk.com/turalinsky">
-    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=Vkontakte&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
 <div align="center">  
