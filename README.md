@@ -20,8 +20,9 @@
 </div>
 <br>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shakhnavaz&theme=dark&background=000000)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhnavaz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shakhnavaz&theme=prussian&hide_border=true&border_radius=20&locale=ru)](https://git.io/streak-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhnavaz&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
