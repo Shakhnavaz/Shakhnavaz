@@ -24,6 +24,6 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhnavaz&layout=compact&theme=prussian&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
-![SHakhnavaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakhnavaz&show_icons=true&theme=prussian&hide_border=true&border_radius=20)
+
  
 
