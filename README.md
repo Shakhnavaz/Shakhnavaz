@@ -2,7 +2,6 @@
   <a href="https://t.me/turalinskiy">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
 
 </div>
 <div align="center">  
