@@ -1,15 +1,21 @@
-<div id="badges" align="center">
+Hello everyone! 👋
+My name is Shahnavaz.
+
+I'm based in Makhachkala, Russia 🌍
+
+I am learning about how to build attractive and creative interfaces 💻
+<div id="badges" align="left">
+  <strong>Contact me:</strong>
+  <br>
   <a href="https://t.me/turalinskiy">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
 </div>
-<div align="center">  
-  <img src="https://komarev.com/ghpvc/?username=shakhnavaz&style=for-the-badge&color=blue" alt=""/>
 
-</div>
 <br>
-<div align="center">
+<div align="left">
+  <strong>Skills:</strong>
+  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
