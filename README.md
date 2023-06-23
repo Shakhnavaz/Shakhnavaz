@@ -1,9 +1,4 @@
-Hello everyone! 👋
-My name is Shahnavaz.
 
-I'm based in Makhachkala, Russia 🌍
-
-I am learning about how to build attractive and creative interfaces 💻
 <div id="badges" align="left">
   <strong>Contact me:</strong>
   <br>
